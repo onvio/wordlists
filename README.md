@@ -22,10 +22,13 @@ cat wordlist1.txt wordlist2.txt | sort -uf > wordlist_combined.txt
 ```
 
 # FFuF Fast Web Fuzzer Commands
+https://github.com/ffuf/ffuf
 
 ```
 go get github.com/ffuf/ffuf
-ffuf -w /path/to/wordlist -u https://target/FUZZ
-ffuf -w onvio_wordlists/words_and_files.txt -u https://example.org -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0' -of csv -o example.org-ffuf.csv -r -mc 200,301,403,405 -ac
+```
+FFuF Scan with Auto Calibration -ac
+```
+ffuf -w wordlists/words_and_files.txt -u https://example.org -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0' -of csv -o example.org-ffuf.csv -r -mc 200,301,403,405 -ac
 ```
 
