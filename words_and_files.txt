@@ -1576,7 +1576,7 @@ ADMON
 ADSearch.cc
 ADview
 AI
-AI version
+AI%20version
 AIPLatfom
 ANSI
 API
@@ -1640,7 +1640,7 @@ Asoquu3e.html
 Aspnet_client
 AssetManage
 Audio
-Augmented Reality
+Augmented%20Reality
 AutoTest.Net
 Automation
 Azië
@@ -1777,7 +1777,7 @@ Contactinfo
 Contao
 Contato
 Content
-Content Writing
+Content%20Writing
 Contentmarketing
 Counting
 Cpanel.php
@@ -1805,7 +1805,7 @@ DSC
 DVD
 DWR
 Dan
-Data processing
+Data%20processing
 Database_Administration
 Database_Backup
 Datascience
@@ -1824,8 +1824,8 @@ Desktop.ini
 DesktopModules
 Details
 DevOps
-DevOps Process
-DevOps tutorial
+DevOps%20Process
+DevOps%20tutorial
 DevTools
 Devise
 DigitalAsset
@@ -1839,11 +1839,11 @@ Dockerfile
 Dockerrun.aws.json
 DocumentViewer
 Documentation
-Documents and Settings
+Documents%20and%20Settings
 DocumentsandSettings
 Domain
-Domain Name Server
-Domain Name System
+Domain%20Name%20Server
+Domain%20Name%20System
 DotNetNuke
 Download
 Downloads
@@ -1871,7 +1871,7 @@ Engels
 Engineer
 English
 EnglishSpeaking
-Enterprise DevOps
+Enterprise%20DevOps
 Entertainment
 Entries
 Enzyme
@@ -1940,7 +1940,7 @@ Gemfile.lock
 Generated_Code
 Git
 GitHub
-GitHub Pages
+GitHub%20Pages
 Github
 GitlabCI
 Global
@@ -2091,8 +2091,8 @@ LXD
 Landwind
 Langs
 Laravel
-Laravel Development Company
-Laravel Development Services
+Laravel%20Development%20Company
+Laravel%20Development%20Services
 Lazyloading
 Leaflet
 Learning
@@ -2141,7 +2141,7 @@ Maintenance
 Makefile
 Makefile.in
 Makefile.old
-Manual Testing
+Manual%20Testing
 Manufacturing
 Markdown
 Material
@@ -2158,7 +2158,7 @@ Minicart
 Misc
 Mkfile.old
 Mobile
-Mobile App
+Mobile%20App
 Modeling
 Modularization
 Module.symvers
@@ -2281,7 +2281,7 @@ Procfile
 Procfile.dev
 Procfile.offline
 Products
-Program Files
+Program%20Files
 Program%20Files
 ProgramFiles
 Programming
@@ -2299,8 +2299,8 @@ PyInstaller
 PyPI
 Python
 QA
-QA OUTSOURCING
-QA Outsourcing
+QA%20OUTSOURCING
+QA%20Outsourcing
 QArea
 QEMU
 QOTD
@@ -2330,7 +2330,7 @@ RSS2
 RadControls
 Rakefile
 Rant
-Raspberry Pi
+Raspberry%20Pi
 React
 Reactthememodification
 Read
@@ -2438,7 +2438,7 @@ Statistik
 Stats
 StreamingStatistics
 Stress
-StuartInHCity AndroidQ
+StuartInHCity%20AndroidQ
 Study
 StyleCopReport.xml
 Subdomain
@@ -2477,7 +2477,7 @@ Telerik.Web.UI.DialogHandler.aspx
 Telerik.Web.UI.WebResource.axd
 Terminal
 Test
-Test Automation
+Test%20Automation
 TestFort
 TestResult.xml
 Testing
@@ -2501,7 +2501,7 @@ UCenter
 UDDI
 UDS
 UI
-UI/UX design
+UI/UX%20design
 UPDATE.txt
 UPGRADE
 UPGRADE.txt
@@ -7247,7 +7247,7 @@ boss
 bossproblems
 boston
 bot
-bot development
+bot%20development
 bot-trap
 bot.txt
 bot_trap
@@ -7786,7 +7786,7 @@ cable
 caboose
 cac
 cache
-cache and serve
+cache%20and%20serve
 cache-downloads
 cache01
 cache1
@@ -9290,7 +9290,7 @@ coda
 codable
 codacy
 code
-code reuse
+code%20reuse
 code-newbie
 code-of-practice
 code2
@@ -9435,7 +9435,7 @@ codigoabierto
 codigofacilito
 codigos
 coding
-coding interview
+coding%20interview
 codingapp
 codingbook
 codingbootcamp
@@ -10120,7 +10120,7 @@ cont
 conta
 contabs
 contact
-contact us
+contact%20us
 contact-author
 contact-form
 contact-formulier
@@ -10947,7 +10947,7 @@ cust
 custdev
 custimages
 custom
-custom software
+custom%20software
 custom-env
 custom-labels
 custom-log
@@ -11231,7 +11231,7 @@ dat
 dat.tar.gz
 dat.zip
 data
-data processing
+data%20processing
 data-files
 data-nseries.tsv
 data-science
@@ -11978,9 +11978,9 @@ descriptorByName
 desenvolupament
 desenvolvimento
 design
-design mistake
-design patterns
-design projects
+design%20mistake
+design%20patterns
+design%20projects
 design-showcase
 design-templates
 designbycontract
@@ -12848,7 +12848,7 @@ domreg
 don
 donald
 donate
-donate cash
+donate%20cash
 donaties
 donation
 donations
@@ -14750,7 +14750,7 @@ extern
 extern-data
 extern_js
 external
-external files
+external%20files
 external-link
 external_ref
 externalid
@@ -16168,7 +16168,7 @@ functies
 function
 function.require
 functional
-functional programming
+functional%20programming
 functionalcomponents
 functionalinterface
 functionality
@@ -16369,7 +16369,7 @@ garage-doors
 garant
 garantie
 garbage
-garbage collection
+garbage%20collection
 garbagecollection
 garbagecollector
 garbled
@@ -18108,7 +18108,7 @@ holographiccomputing
 hololens
 hombrew
 home
-home page
+home%20page
 home-insurance
 home-page
 home.html
@@ -18654,7 +18654,7 @@ i8
 i9
 iNotes
 iOS
-iOS experts
+iOS%20experts
 iOSInjectionProject
 ia
 ia_archiver
@@ -22445,7 +22445,7 @@ lombardia
 lombok
 london
 lonestar
-long term growth
+long%20term%20growth
 longisland
 longlongago
 longreads
@@ -23616,7 +23616,7 @@ memorial
 memorials
 memories
 memory
-memory management
+memory%20management
 memoryallocation
 memorylane
 memoryleak
@@ -24287,7 +24287,7 @@ moderator.html
 moderator.php
 moderators
 modern
-modern mom
+modern%20mom
 modern.json
 modern.jsonp
 modern_mom
@@ -24795,7 +24795,7 @@ mutant
 mutation
 mutationtesting
 mutual
-mutual funds
+mutual%20funds
 mutualfundeduation
 mutualfunds
 mutui
@@ -24858,7 +24858,7 @@ mxchip
 mxe
 mxs
 my
-my project
+my%20project
 my-account
 my-admin
 my-components
@@ -25379,7 +25379,7 @@ networks
 networksniffer
 networkx
 neu
-neuf giga photo
+neuf%20giga%20photo
 neufgiga
 neuken
 neurallink
@@ -27408,7 +27408,7 @@ parallels
 paralleltesting
 param
 parameter
-parameterized tests
+parameterized%20tests
 parameters
 params
 parana
@@ -27509,7 +27509,7 @@ passwd.bak
 passwd.txt
 passwor
 password
-password manager
+password%20manager
 password.html
 password.log
 password.mdb
@@ -27801,7 +27801,7 @@ perso
 person
 persona
 personal
-personal projects
+personal%20projects
 personal-ads
 personal.mdb
 personal.sqlite
@@ -27894,7 +27894,7 @@ phantomjs
 phantoms
 pharm
 pharma
-pharmaceutical goods
+pharmaceutical%20goods
 pharmacy
 pharo
 pharos
@@ -27983,7 +27983,7 @@ photoshop
 phototheque
 phototour
 php
-php web server
+php%20web%20server
 php-backdoor.php
 php-bin
 php-cgi
@@ -28579,7 +28579,7 @@ planet
 planeta
 planetarium
 plang
-planned giving
+planned%20giving
 planner
 planners
 planning
@@ -29194,7 +29194,7 @@ presents
 preserve
 president
 press
-press releases
+press%20releases
 press-center
 press-release
 press-releases
@@ -29322,7 +29322,7 @@ priv8.php
 priv_stats
 privacidad
 privacy
-privacy policy
+privacy%20policy
 privacy-beleid
 privacy-policy
 privacy_policy
@@ -31161,7 +31161,7 @@ reporter
 reportes
 reporting
 reports
-reports list
+reports%20list
 reports-old
 reports-test
 reports2
@@ -33541,7 +33541,7 @@ sistemes
 sit
 sitcoms
 site
-site map
+site%20map
 site-admin
 site-config
 site-images
@@ -34049,9 +34049,9 @@ softnas
 softs
 softskills
 software
-software development
-software development services
-software outsourcing
+software%20development
+software%20development%20services
+software%20outsourcing
 softwareEngineering
 softwareag
 softwarearchitect
@@ -35266,7 +35266,7 @@ stwww
 stxt
 sty
 style
-style library
+style%20library
 style_avatars
 style_captcha
 style_css
@@ -37137,7 +37137,7 @@ traci
 tracie
 tracing
 track
-track-and-trace system
+track-and-trace%20system
 track_visit
 trackback
 trackclick
@@ -37244,7 +37244,7 @@ translation
 translations
 translator
 transloco
-transmissio  
+transmissio%20%20
 transmission
 transparant
 transparencia
@@ -37261,7 +37261,7 @@ traueranzeigen
 travail
 travaux
 travel
-travel report
+travel%20report
 travel-guide
 travel-guides
 travel-insurance
@@ -37343,7 +37343,7 @@ trimite-comanda
 trinity
 trio
 trip
-trip report
+trip%20report
 triple
 tripplanner
 tripreport
@@ -37820,7 +37820,7 @@ uniontypes
 unique
 uniscene
 unit
-unit testing
+unit%20testing
 unitTest
 unit_tests
 unitconversion
@@ -39406,9 +39406,9 @@ weasel
 weather
 weave
 web
-web development
-web references
-web scraping
+web%20development
+web%20references
+web%20scraping
 web-admin
 web-app
 web-beans
