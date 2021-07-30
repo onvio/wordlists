@@ -1,3 +1,4 @@
+app.asar
 0admin
 0manager
 0.htpasswd
