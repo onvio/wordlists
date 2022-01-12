@@ -31,4 +31,6 @@ FFuF Scan with Auto Calibration -ac
 ```
 ffuf -w wordlists/words_and_files.txt -u https://example.org -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0' -of csv -o example.org-ffuf.csv -r -mc 200,301,403,405 -ac
 ```
-
+```
+for i in $(cat urls.txt); do ./ffuf.sh project $i; done
+```
