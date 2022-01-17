@@ -2,7 +2,6 @@
 0
 0admin
 0manager
-0w1w2wHw4w_End1
 0.htpasswd
 0.jsp
 0.log
@@ -330,7 +329,6 @@
 ***
 .//WEB-INF/web.xml
 ./admin/.
-./secret/..
 ./WEB-INF/web.xml
 .;/admin
 .accdb
@@ -459,7 +457,6 @@
 .clog.toml
 .coafile
 .cobalt
-.cobalt/sysManage/../admin/.htaccess
 .cocoadocs.yml
 .codacy.yml
 .codeclimate.yml
@@ -979,7 +976,6 @@
 .nrepl-port
 .nsconfig
 .nsf
-.nsf/../winnt/win.ini
 .ntvs_analysis.dat
 .nuget
 .nuget/NuGet/NuGet.Config
@@ -1487,8 +1483,6 @@
 .zshrc.pre-oh-my-zsh
 .zuul.yaml
 .zuul.yml
-//../../data/config/microsrv.cfg
-/////../../../etc/passwd
 /__swagger__
 /api
 /api-docs
@@ -1815,7 +1809,6 @@ access_log
 access_log.1
 accessgranted
 accessibility
-accessible/..;/admin
 accesslog
 accesslogs
 accessories
@@ -2058,7 +2051,6 @@ admin-login.php
 admin-serv
 admin-serv/config/admpw
 admin.7z
-admin..;
 admin.asp
 admin.aspx
 admin.cfm
@@ -2843,7 +2835,6 @@ anubis
 anuncios
 anunturi
 any
-any.aspx/trace.axd
 anything.jsp
 anywhere
 anzeigen
@@ -3423,7 +3414,6 @@ assembly.xml
 assert.sh
 assessment
 asset
-asset..
 asset_img/.env
 assetmanage
 assetmanagement
@@ -5965,7 +5955,6 @@ content.sql
 content.tidy.-1.blubber.json
 content.tidy.json
 content.xml
-content/../libs/foundation/components/text/text.jsp
 content/.{.}/libs/foundation/components/text/text.jsp
 content/add_valid_page.html?debug=layout
 content/add_valid_page.query.json?statements//*
@@ -11106,8 +11095,6 @@ javascripts/application.js
 javascripts/bundles
 javascripts/prototype.js
 javax
-javax.faces.resource...
-javax.faces.resource.../WEB-INF/web.xml.jsf
 jaxb
 jaxb/array/XmlRootElement
 jaxb/array/XmlType
@@ -12192,7 +12179,6 @@ login/Login.jsp
 login/super
 login/twitter
 login;
-login;/..;/admin
 login;foo
 login_admi
 login_admin
@@ -16319,7 +16305,6 @@ pub2
 public
 public1
 public2
-public..
 public/404.html
 public/422.html
 public/500.html
@@ -16838,8 +16823,6 @@ remote2
 remote.php
 remote.php/webdav
 remote.sh
-remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
-remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 remoteaccess
 remotesupport
 remotetracer
@@ -19098,7 +19081,6 @@ static6
 static7
 static8
 static-m
-static..
 static.conf
 static/.git/config
 static/dump.sql
@@ -19132,7 +19114,6 @@ status.php
 status.sh
 STATUS.txt
 status.xsl
-status/..;
 status?full=true
 statusicon
 statystyki
