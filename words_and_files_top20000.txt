@@ -9035,7 +9035,6 @@ content.sql
 content.tidy.-1.blubber.json
 content.tidy.json
 content.xml
-content/.{.}/libs/foundation/components/text/text.jsp
 content/add_valid_page.html?debug=layout
 content/add_valid_page.query.json?statements//*
 content/content/geometrixx.sitemap.txt
@@ -16537,7 +16536,7 @@ passw
 passwor
 password-hash.sh
 Password.jsp
-password.log‎
+password.log
 passwordreset
 PasswordVault
 past
@@ -16800,7 +16799,6 @@ phpinfos
 phplist
 phplist.sql
 phpLiteAdmin
-phpliteadmin 2.php
 phpliteadmin%202.php
 phpLiteAdmin_
 phplive
