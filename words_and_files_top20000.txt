@@ -1494,6 +1494,7 @@ api/dev/applications
 api/dev/services
 api/env
 api/error_log
+api/index.html
 api/graph
 api/host
 api/incidents
