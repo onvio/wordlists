@@ -1,10 +1,10 @@
 # Wordlists
-Shared wordlists used for common subdomains , directory bruteforcing etc.
+Shared wordlists used for subdomain, files and directory bruteforcing etc.
 
-## Update Feb 2022 - Big Update
-* Merged with https://github.com/the-xentropy/samlists to order wordlists by probability / likelihood
-* Optimized common_subs_nl_100k.txt  (subdomains including common dutch subs)
-* Deleted unused wordlists
-* Added small wordlists useful for scans against sensitive targets (rate limiting / WAF etc.)
-* Added pincodes.txt combines all possible 4-digit pincodes for bruteforcing.
-* header_injection.txt
+## Unique Wordlists, tailor-made, optimized and fine-tuned. Dont share :)
+* Merged with https://github.com/the-xentropy/samlists to order wordlists based on probability/likelihood
+* Smaller lists can be used against rate limiting / WAF
+* Wordlists are included in automated recon / scan scripts:
+* https://github.com/onvio/recon/blob/main/ffuf.sh
+* https://github.com/onvio/recon/blob/main/subrecon.sh
+* Use Assetnote for bigger wordlists if needed: https://wordlists.assetnote.io/ 
