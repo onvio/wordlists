@@ -3321,6 +3321,8 @@ moderator/login.php
 modern.json
 modern.jsonp
 Module.symvers
+moduleservices
+module
 modules
 modules.order
 modules/admin
