@@ -9573,6 +9573,7 @@ image4
 image5
 imagefolio
 imageg
+imagecapture
 imagegallery
 image_importer.php
 imagenes
