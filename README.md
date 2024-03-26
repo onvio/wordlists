@@ -1,7 +1,7 @@
 # Wordlists
 Shared wordlists used for subdomain, files and directory bruteforcing etc.
 
-## Unique Wordlists, tailor-made, optimized and fine-tuned. Dont share :)
+## Unique Wordlists, tailor-made, optimized and fine-tuned.
 * Merged with https://github.com/the-xentropy/samlists to order wordlists based on probability/likelihood
 * Smaller lists can be used against rate limiting / WAF
 * Wordlists are included in automated recon / scan scripts:
