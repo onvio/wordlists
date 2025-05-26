@@ -247,6 +247,7 @@
 403
 403.jsp
 404
+404error
 404.jsp
 40.sql
 41
@@ -1362,6 +1363,7 @@ alpine
 als
 alt
 altair
+altair
 altercast
 alter.sql
 alumni
@@ -1595,6 +1597,7 @@ api/dev/services
 api-doc
 api/doc
 /api-docs
+/api/docs
 /apidocs
 api-docs
 apidocs
@@ -1608,7 +1611,9 @@ api/error_log
 api/errors
 api/expr
 api/.git/config
+api/gql
 api/graph
+api/graphql
 api/health
 api/host
 api.html
@@ -1627,11 +1632,14 @@ api/metric
 api/opentsdb/version
 api/payment?id=
 api.php
+/api/postman
 api/prod/services
 api/proxy
 api/proxy?url=
 api/put
 api/quiet
+/api/redoc
+/api/redoc.html
 api/reload
 api/rule
 apis
@@ -1674,6 +1682,7 @@ api/users
 api/v1
 api/v1/api-docs
 api/v1/apidocs
+api/v1/graphql
 api/v1/health
 api/v1/node
 api/v1/pod
@@ -2425,6 +2434,7 @@ backend
 back-end/app/.env
 backend/.env
 backendfinaltest/.env
+backend/graphql
 backend.php
 backend/src/.env
 back/.env
@@ -6379,6 +6389,7 @@ docs/.env
 docs.html
 docs/INSTALL.txt
 docs.json
+/docs/postman
 docs.sh
 docs/swaggeer.json
 docs.tar
@@ -8647,6 +8658,7 @@ gprs
 gpr.xml
 gps
 gpweb
+gql
 gr
 gra
 graal
@@ -8676,6 +8688,7 @@ graphic
 graphics
 graphics2
 graphiql
+graphiql
 graphiql.css
 graphiql.js
 graphiql.min.css
@@ -8683,10 +8696,12 @@ graphiql.min.js
 graphiql.php
 graphite
 graphql
+graphql
 graphql/console
 graphql-explorer
 graphql.js
 graphql.php
+graphql/query
 graphql/schema.json
 graphql/schema.xml
 graphql/schema.yaml
@@ -10060,6 +10075,7 @@ Intermediate
 intern
 internacional
 internal
+internal/graphql
 international
 internet
 interno
@@ -13924,6 +13940,7 @@ openaccess
 open-account
 openads
 openapi
+/openapi.json
 openapi/v2
 openapp
 openbsd
@@ -15150,6 +15167,7 @@ players
 player.swf
 .playground
 playground
+playground
 playground.xcworkspace
 playing
 playlist
@@ -15389,6 +15407,7 @@ postings
 postinstall.sh
 post-link.sh
 postman
+/postman-collection.json
 postmaster
 postnuke
 postoffice
@@ -16005,6 +16024,7 @@ queen
 queens
 queries
 query
+query
 query_debug_console
 query.log
 query?q=SHOW%20STATS
@@ -16271,6 +16291,8 @@ redis
 redmine
 redmine2
 .redmine-cli
+/redoc
+/redoc.html
 .reduxrc
 .reek
 reestr
@@ -19210,6 +19232,7 @@ swagger
 swaggerapi
 swagger/docs/v1
 swagger/index.html
+/swagger.json
 swagger.json
 swagger-resources
 /swagger-resources/restservices/v2/api-docs
@@ -20930,6 +20953,7 @@ v10
 v12
 /v1/api
 v1/.env
+v1/graphql
 v1/health/service/consul
 v1/swagger
 v1/swagger.json
@@ -20941,6 +20965,7 @@ v2/apis/auth/_resource
 v2/apps
 v2/_catalog
 v2/.env
+v2/graphql
 v2/groups
 v2/keys
 v2/keys/?recursive=true
