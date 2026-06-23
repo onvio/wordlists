@@ -19372,6 +19372,7 @@ system
 system-admin
 system_admin
 system-administration
+system-status
 system_administration
 system/cache
 system/console
